@@ -1,0 +1,5 @@
+- name: Rename .well-known folder
+  run: |
+    if [ -d "./docs/.well-known" ]; then
+      mv ./docs/.well-known ./docs/well-known
+    fi
