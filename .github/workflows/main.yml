@@ -1,1 +1,2 @@
-mv .well-known well-known
+name: Move .well-known folder
+run: mv .well-known well-known
