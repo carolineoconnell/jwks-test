@@ -3,7 +3,7 @@
     {
       "kty": "RSA",
       "alg": "RS256",
-      "kid": "yourKeyIdHere",
+      "kid": "caro-key-001",
       "n": "base64url-modulus",
       "e": "base64url-exponent"
     }
